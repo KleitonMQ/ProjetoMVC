@@ -1,6 +1,15 @@
+using Microsoft.EntityFrameworkCore;
+using ProjetoMVC.Context;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+
+//Configuração final do entity framework no projeto. Após cirar as strings e classe usada para conectar com o banco de dados.
+builder.Services.AddDbContext<AgendaContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("ConexaoPadrao")));
+
+
+
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
