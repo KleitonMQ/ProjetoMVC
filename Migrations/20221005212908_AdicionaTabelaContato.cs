@@ -4,7 +4,7 @@
 
 namespace ProjetoMVC.Migrations
 {
-    public partial class AdicionarTabelaContato : Migration
+    public partial class AdicionaTabelaContato : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
