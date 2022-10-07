@@ -16298,6 +16298,16 @@
   "RootNamespace": "ProjetoMVC",
   "Documents": [
     {
+      "FilePath": "e:\\ProjetosDev\\DIO - pottencial\\ProjetoMVC\\Views\\Contato\\Deletar.cshtml",
+      "TargetPath": "Views\\Contato\\Deletar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\ProjetosDev\\DIO - pottencial\\ProjetoMVC\\Views\\Contato\\Detalhes.cshtml",
+      "TargetPath": "Views\\Contato\\Detalhes.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\ProjetosDev\\DIO - pottencial\\ProjetoMVC\\Views\\Contato\\Criar.cshtml",
       "TargetPath": "Views\\Contato\\Criar.cshtml",
       "FileKind": "mvc"
@@ -16320,6 +16330,11 @@
     {
       "FilePath": "e:\\ProjetosDev\\DIO - pottencial\\ProjetoMVC\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\ProjetosDev\\DIO - pottencial\\ProjetoMVC\\Views\\Contato\\Editar.cshtml",
+      "TargetPath": "Views\\Contato\\Editar.cshtml",
       "FileKind": "mvc"
     },
     {
